@@ -6,7 +6,7 @@
     "LICENSE",
     "README.md"
   ],
-  "devDependencies": {
+  "dependencies": {
     "dt-chai": "~1.7.2"
   }
 }
